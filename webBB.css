@@ -14,7 +14,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #133;
-  width: 58%;
+  width: 65%;
   height: 55px
 }
 
@@ -38,7 +38,7 @@ body {
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 600px; /* Should be removed. Only for demonstration */
   border: 3px solid black;
   margin-top: 50px;
   margin-bottom: 50px;
