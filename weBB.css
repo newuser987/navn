@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #133;
+  width: 58%;
+  height: 55px
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #aaa;
+  color: blue;
+}
+
+/* Style the content */
+.content {
+  background-color: #ddd;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+  border: 3px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 80px;
+  margin-left: 40px;
+  background-color: lightblue;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+body {
+  background-image: url('1.jpg');
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+
+.outset {
+	border-style: outset;
+}
