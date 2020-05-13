@@ -90,5 +90,13 @@ div {
 }
 
 .content2 {
-  margin-left: 0px;
+  background-color: #ddd;
+  padding: 10px;
+  height: 800px;
+  border: 3px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+  background-color: lightblue;
 }
